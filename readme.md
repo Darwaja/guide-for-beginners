@@ -3,7 +3,7 @@
 This guide is aimed at non-programmers, or folks with little computer programming experience, 
 giving them general tips to follow. We won't bore you with dull text and instead jump straight in.
 
-## Pre equisites
+## Prerequisites
 We expect the reader to be able to search for information on the internet. The ability to
 reading and writing technical English is going to be very helpful, as most programming, and computer related
 resources have thorough documentation written in English. 
