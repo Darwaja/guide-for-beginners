@@ -109,3 +109,7 @@ The Readability of code in these languages is crucial so that newbs are not put 
 - #### Tooling and community
 These languages have widespread communities on various platforms and have been in use for years to have
 exhaustive tooling for things such as modules, libraries, compilers/interpreters that are reasonably fast.
+
+## Licensing
+This document is released under the terms of The Unlicense, all previously released, or non-released versions
+of this document fall under the terms of The Unlicense license.
