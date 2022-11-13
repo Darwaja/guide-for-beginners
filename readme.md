@@ -29,7 +29,7 @@ Don't fret, nothing is perfect. You have to start at some point using a language
 taken the first step and mastered it, moving on is never going to be a problem. It is always the
 first step that is seemingly difficult.
 
-> Programmers, please see the [rationale][#Rationale_for_choices] section.
+> Programmers, please see the [rationale](#Rationale_for_choices) section.
 
 #### Summary
 - Python
