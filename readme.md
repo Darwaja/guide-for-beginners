@@ -39,7 +39,7 @@ first step that is seemingly difficult.
 Choose any. You will be fine.
 
 ## How do I learn language `xyz`
-Visit the language `xyz`'s website. Most websites have their own websites along with documentation
+Visit the language `xyz`'s website. Most languages have their own website along with documentation
 and resources for people to get familiar with it. I recommend reading books, or watching videos
 only from sources recommended by the language's community. There are tutorial introductions
 written by members of the community as well, so be sure to browse for them as well. 
