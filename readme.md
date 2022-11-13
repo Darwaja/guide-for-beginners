@@ -1,6 +1,7 @@
-This is a guide aimed at non-programmers, or folks with little experience with computer programming
-and give them a general tips, techniques & principles to follow. We won't bore you with tedious to
-read text and instead jump straight in.
+# Guide for beginners
+
+This guide is aimed at non-programmers, or folks having little experience with computer programming
+and give them general tips to follow. We won't bore you with dull text and instead jump straight in.
 
 ## Pre requisites
 We expect the reader to be able to conduct searches for information on the internet. The ability to
